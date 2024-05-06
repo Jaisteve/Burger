@@ -23,7 +23,10 @@ window.onscroll = () =>
     }
 }
 
+<<<<<<< HEAD
 
+=======
+>>>>>>> 7969fe451888d5bef5017903b77d93fc9d3f4fd2
 let mybutton = document.getElementById("myBtn");
 
 window.onscroll = function() {scrollFunction()};
@@ -40,4 +43,7 @@ function topFunction() {
   document.body.scrollTop = 0; 
   document.documentElement.scrollTop = 0; 
 }
+<<<<<<< HEAD
 
+=======
+>>>>>>> 7969fe451888d5bef5017903b77d93fc9d3f4fd2

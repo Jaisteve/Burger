@@ -16,10 +16,6 @@
     transition: all .2s linear;
 }
 
-*::selection{
-    background: var(--red);
-}
-
 html{
     font-size:62.5%;
     scroll-behavior:auto;
@@ -469,7 +465,11 @@ header .navbar a:hover{
    }
 
 
+<<<<<<< HEAD
    #myBtn {
+=======
+  #myBtn {
+>>>>>>> 7969fe451888d5bef5017903b77d93fc9d3f4fd2
     width:80px;
     height: 50px;
     display: none; 
@@ -490,7 +490,10 @@ header .navbar a:hover{
   #myBtn:hover {
     background-color: #666; 
   }
+<<<<<<< HEAD
 
+=======
+>>>>>>> 7969fe451888d5bef5017903b77d93fc9d3f4fd2
 
 /* media queries */
 
